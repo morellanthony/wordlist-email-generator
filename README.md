@@ -1,6 +1,5 @@
 # wordlist-email-generator
-Creates a wordlist of emails addresses from inputted names
-
+Creates a wordlist of emails addresses from inputted names. I got this idea while training for the eJPT.
 Example of it being used and the output.
 
 ![1](https://user-images.githubusercontent.com/32202937/200099579-5e9e57b7-f259-482f-ac25-f868d3b4abfb.PNG)
